@@ -1,4 +1,4 @@
-# Chatter
+# Flash Chat
 
 Developed this messaging app for iOS using Firebase.
 
